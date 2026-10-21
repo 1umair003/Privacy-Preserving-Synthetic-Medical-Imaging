@@ -20,6 +20,7 @@
 11. [Repository Structure](#repository-structure)
 12. [Contact](#contact)
 
+Project website: https://1umair003.github.io/Privacy-Preserving-Synthetic-Medical-Imaging/  
 Full results, tables and figures are in [`results/README.md`](results/README.md).  
 Code and run instructions are in [`codes/README.md`](codes/README.md).
 
