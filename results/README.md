@@ -193,6 +193,8 @@ Paired t-tests and Wilcoxon signed-rank tests on fold-wise accuracy vectors.
 | ResNet50 vs. Xception | With pre-train | - | **0.022** | Yes |
 | InceptionV3 vs. Xception | With pre-train | - | 0.886 | No (statistically equivalent) |
 
+*t-statistics for the with-pre-training comparisons were not reported in the manuscript; p-values are from paired t-tests over 5 folds.*
+
 ---
 
 ← [Back to paper overview](../README.md)
