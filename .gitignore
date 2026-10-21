@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# Data and generated outputs (too large / private for git)
+data/
+codes/**/outputs/
+codes/**/results/
+codes/Test/statistical_results/
+codes/Test/results_summary.*
+codes/synthetic_image_generation/LoRA_SDXL/diffusers/
+
+# Model files
+*.keras
+*.h5
+*.pt
+*.safetensors
+*.pkl
