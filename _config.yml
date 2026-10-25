@@ -1,0 +1,18 @@
+title: Privacy-Preserving Synthetic Medical Imaging
+description: LoRA-enhanced Stable Diffusion XL for multi-class lung disease diagnosis
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-readme-index
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+
+relative_links:
+  enabled: true
+  collections: false
+
+exclude:
+  - tests
+  - "*.sh"
+  - requirements.txt
